@@ -1,5 +1,15 @@
 [
   {
+    "name": "ILikeMice",
+    "distro": "arch",
+    "git": "https://github.com/ILikeMice/firstrice"
+  },
+  {
+    "name": "Volkov",
+    "distro": "arch",
+    "git": "https://github.com/Volkov08/firstricedots"
+  },
+  {
     "name": "neongamerbot-qk",
     "distro": "nixos",
     "git": "https://github.com/NeonGamerBot-QK/nixos"
@@ -8,5 +18,165 @@
     "name": "kierans-nix",
     "distro": "nixos",
     "git": "https://github.com/kcoderhtml/dots"
+  },
+  {
+    "name": "askiiart",
+    "distro": "blendos",
+    "git": "https://github.com/askiiart/dotfiles"
+  },
+  {
+    "name": "noahUglyPink",
+    "distro": "mint",
+    "git": "https://github.com/PGtheVRguy/hackClubWinter/tree/main/ricathon"
+  },
+  {
+    "name": "leanghok-cozy",
+    "distro": "arch",
+    "git": "https://github.com/leanghok120/Dotfiles"
+  },
+  {
+    "name": "pixel-city",
+    "distro": "alpine",
+    "git": "https://github.com/fluxc0/therealdots"
+  },
+  {
+    "name": "bunnyguy",
+    "distro": "pop!_os",
+    "git": "https://github.com/snipchu/dotfiles"
+  },
+  {
+    "name": "TuinboonDev",
+    "distro": "arch",
+    "git": "https://github.com/TuinboonDev/.files"
+  },
+  {
+    "name": "cheyao",
+    "distro": "arch",
+    "git": "https://github.com/cheyao/hyprland"
+  },
+  {
+    "name": "TheTridentGuy",
+    "distro": "raspbian",
+    "git": "https://github.com/TheTridentGuy/RaspbianRice/"
+  },
+  {
+    "name": "firepup650",
+    "distro": "debian",
+    "git": "https://git.h.hackclub.app/Firepup650/dotfiles"
+  },
+  {
+    "name": "neonrowan",
+    "distro": "fedora",
+    "git": "https://github.com/GearBoxFox/dotfiles"
+  },
+  {
+    "name": "StatusCritical",
+    "distro": "arch",
+    "git": "https://github.com/StatusCritical/.config"
+  },
+  {
+    "name": "xriiitox",
+    "distro": "endeavouros",
+    "git": "https://github.com/xriiitox/dwm"
+  },
+  {
+    "name": "iris",
+    "distro": "endeavouros",
+    "git": "https://github.com/Iris-TheRainbow/dotfiles"
+  },
+  {
+    "name": "CyrilSLi",
+    "distro": "fedora",
+    "git": "https://github.com/CyrilSLi/linux-scripts"
+  },
+  {
+    "name": "BeachBunnyTheme",
+    "distro": "mint",
+    "git": "https://github.com/BoomBoomMushroom/DillionRice-LinuxMint"
+  },
+  {
+    "name": "Mei Misaki My Beloved",
+    "distro": "arch",
+    "git": "https://github.com/Circuitbreaker08/Mei-Misaki-My-Beloved"
+  },
+  {
+    "name": "Nooz",
+    "distro": "mint",
+    "git": "https://github.com/NoozAbooz/dotfiles"
+  },
+  {
+    "name": "Cyclic",
+    "distro": "arch",
+    "git": "https://github.com/Cyclic007/Arch-Rice/tree/main"
+  },
+  {
+    "name": "Magical Paperclip",
+    "distro": "raspbian",
+    "git": "https://github.com/magical-paperclip/-magical-paperclip-riceathon"
+  },
+  {
+    "name": "Dragon863",
+    "distro": "debian",
+    "git": "https://github.com/Dragon863/i3-rice"
+  },
+  {
+    "name": "swarsin",
+    "distro": "arch",
+    "git": "https://github.com/Swarsin/dotfiles"
+  },
+  {
+    "name": "3XAY",
+    "distro": "Kubuntu",
+    "git": "https://github.com/3XAY/tree/3xay/"
+  },
+  {
+    "name": "leahcodes101",
+    "distro": "arch",
+    "git": "https://github.com/OtterCodes101/dotfiles"
+  },
+  {
+    "name": "headblockhead",
+    "distro": "nixos",
+    "git": "https://github.com/headblockhead/dotfiles"
+  },
+  {
+    "name": "smol-xuan",
+    "distro": "arch",
+    "git": "https://github.com/CattoYT/fuxuan-dots"
+  },
+  {
+    "name": "Yoav Mlotok",
+    "distro": "arch",
+    "git": "https://github.com/yoavmlotok/cat-rice"
+  },
+  {
+    "name": "bean1134",
+    "distro": "fedora",
+    "git": "https://github.com/bento1134/dotfiles"
+  },
+  {
+    "name": "A Badly Drawn Wobbler",
+    "distro": "nixos",
+    "git": "https://github.com/suyashtnt/commafiles"
+  },
+  {
+    "name": "sophia0805",
+    "distro": "ubuntu",
+    "git": "https://github.com/sophia0805/linux-rice"
+  },
+  {
+    "name": "ComputingSquid",
+    "distro": "ubuntu",
+    "git": "https://github.com/ProbablyComputingSquid/plasmaconfig"
+  },
+  {
+    "name": "udontur",
+    "distro": "arch",
+    "git": "https://github.com/udontur/hyprland"
+  },
+  {
+    "name": "ShibamRoy9826",
+    "distro": "arch",
+    "git": "https://github.com/ShibamRoy9826/qt_tile"
   }
 ]
